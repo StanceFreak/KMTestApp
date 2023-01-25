@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KMTestSuitmedia</string>
+    <string name="second_activity_label">Second Screen</string>
+    <string name="second_btn_text">Choose a User</string>
+    <string name="second_greetings_text">Welcome</string>
+    <string name="second_placeholder_name_text">John Doe</string>
+    <string name="second_selected_user_text">Selected User Name</string>
+    <string name="third_activity_label">Third Screen</string>
+</resources>
